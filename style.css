@@ -36,7 +36,7 @@ nav {
     flex-direction: column;
   }
   nav ul li{
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
   }
   nav ul li a {
     color: white;
